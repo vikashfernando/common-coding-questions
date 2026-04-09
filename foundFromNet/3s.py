@@ -1,4 +1,4 @@
-##Find the maximum number in a list
+#Find the maximum number in a list
 
 lst=[3,4,5,6,1,15,6]
 
